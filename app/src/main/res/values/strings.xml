@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Just Eat Restaurant Finder</string>
+
+    <string name="postcode_hint">Enter UK Postcode (e.g., EC4M 7RF)</string>
+    <string name="search_button_text">Search</string>
+    <string name="initial_prompt_message">Enter a UK postcode above to find restaurants.</string>
+    <string name="no_results_message">No restaurants found for this postcode.</string>
+    <string name="error_fetching_message">Error fetching data: %1$s</string> <string name="enter_postcode_message">Please enter a UK postcode.</string>
+    <string name="invalid_postcode_format">Invalid UK postcode format.</string>
+
+    <string name="rating_prefix">Rating:</string>
+    <string name="cuisines_prefix">Cuisines:</string>
+    <string name="address_prefix">Address:</string>
+    <string name="rating_format_string">%.1f / 5.0</string> <string name="rating_stars_content_description">Star rating</string>
+    <string name="data_not_available">N/A</string>
+
+</resources>
